@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1074127957725",
+    "project_id": "debts-f97cc",
+    "storage_bucket": "debts-f97cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074127957725:android:1b89b74e0f700f6b4bb534",
+        "android_client_info": {
+          "package_name": "com.example.debts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2mcBSk3YYYCxPWnn06S4GERvmPcj83O4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
